@@ -35,7 +35,7 @@ Current Worship Series: [Hymn Sing Sunday]()
 ### Areas Of Information
 
 * [About Our Church]()
-* [Worship]()
+* [Worship](worship.md)
 * [Education]()
 * [Community]()
 * [News & Events]()
