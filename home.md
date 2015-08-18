@@ -18,7 +18,7 @@ We will contact you shortly about how we can help you with your needs and questi
 
 ## Sunday Service Schedule
 
-This Summer One Service at 9:30 AM
+One service at 9:30 AM Sundays this summer.
 Memorial Day - Labor Day
 May 24 - September 6
 [Get Directions]()
