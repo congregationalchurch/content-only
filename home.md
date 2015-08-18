@@ -54,9 +54,11 @@ Directions here from Google:
 
 #### Contact Us
 
-Don't
+We're here as you need us, across many channels:
+
 - Phone:(630) 879-1999
 - Email: [bataviaucc (at) sbcglobal.net]()
 - [Online Contact]() if you don't have email access
 - Social: [Facebook](), [Instagram]()
 
+© 2015 Congregational Church of Batavia. All rights reserved.
