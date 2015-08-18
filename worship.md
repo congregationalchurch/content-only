@@ -14,26 +14,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum
 
 ## Common Questions
 
-- Attire: Vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio.
-- Communion: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- Baptism: Aenean euismod bibendum laoreet. 
-- Funerals: Proin gravida dolor sit amet lacus accumsan et 
-- Planning: viverra justo commodo. Proin sodales pulvinar tempor. 
-- Music: Cum sociis natoque penatibus et magnis dis parturient montes, 
-- Weddings: nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra
-- Volunteering: vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio.
+- **Attire**: Vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio.
+- **Communion**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- **Baptism**: Aenean euismod bibendum laoreet. 
+- **Funerals**: Proin gravida dolor sit amet lacus accumsan et 
+- **Planning**: viverra justo commodo. Proin sodales pulvinar tempor. 
+- **Music**: Cum sociis natoque penatibus et magnis dis parturient montes, 
+- **Weddings**: nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra
+- **Volunteering**: vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio.
 
 ### Worship Calendar
 ```
-que?
+FPO
 ```
 
 ### Pastor's Message
 ```
-que?
+FPO
 ```
 
 ### Bulletin
 ```
-que?
+FPO
 ```
