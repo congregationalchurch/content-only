@@ -34,11 +34,11 @@ Current Worship Series: [Hymn Sing Sunday]()
 
 ### Areas Of Information
 
-* [About Our Church](about our church.md)
+* [About Our Church](about-our-church.md)
 * [Worship](worship.md)
 * [Education](education.md)
-* [Community]()
-* [News & Events]()
+* [Community](community.md)
+* [News & Events](news-and-events.md)
 
 ### Church Information
 
