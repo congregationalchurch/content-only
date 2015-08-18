@@ -47,9 +47,8 @@ Current Worship Series: [Hymn Sing Sunday]()
 21 South Batavia Avenue
 Batavia, IL 60510
 ```
-`
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2972.0368936351165!2d-88.31231420000002!3d41.849032700000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880efcc7bb3b7b4d%3A0x3139a96df6e5c78e!2sCongregational+Church+of+Batavia!5e0!3m2!1sen!2sus!4v1439868372720" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-`
+Directions here from Google:
+[https://goo.gl/maps/xjhLq](https://goo.gl/maps/xjhLq)
 
 #### Services
 
