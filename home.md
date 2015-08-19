@@ -3,7 +3,7 @@
 * [Home](home.md)
 * [Guest Info]()
 * [Calendar]()
-* [Members](https://secure.accessacs.com/access/memberlogin.aspx?sn=110319)
+* [Members](members.md)
 
 # CONGREGATIONAL CHURCH OF BATAVIA
 **UNITED CHURCH OF CHRIST**
