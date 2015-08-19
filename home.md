@@ -8,7 +8,7 @@
 # CONGREGATIONAL CHURCH OF BATAVIA
 **UNITED CHURCH OF CHRIST**
 
-*No matter whom you are, or where you are on God’s journey... you are welcome here.*
+*No matter who you are, or where you are on God’s journey... you are welcome here.*
 
 ## Connect with us
 
