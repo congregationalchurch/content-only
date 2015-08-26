@@ -8,8 +8,6 @@ We support many local area organizations with both financial donations and volun
 
 Some of our current projects are an Adult/Youth Mission project in Cairo, IL, collecting books for Aunt Mary's Storybook Project, and our Annual Christmas Gift Festival.
 
-===
-
 > "I was hungry and you gave me something to eat,
 I was thirsty and you gave me something to drink,
 I was a stranger and you invited me in,
@@ -18,6 +16,25 @@ I was sick and you looked after me,
 I was in prison and you came to visit me."
 
 Matthew 25:35-37 
+
+===
+
+### All the ministries we support
+
+- Association for Individual Development (AID), 
+- Habitat for Humanity
+- Hesed House
+- Lazurus House 
+- Mutual Ground
+- Midwest Shelter for Homeless Vets 
+- CASA
+- Riverwood’s Christian Center
+- Tri-City Family Services
+- Batavia Food Pantry
+- Torch
+
+
+
 
 
 
