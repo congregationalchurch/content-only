@@ -1,6 +1,10 @@
 ## Volunteering
 
-Whether you're a weekend warrior for peace or a handy helping hand, we have ample chances to pitch in, pick up, lend an ear and more. Each of these groups and categories has many helping hands for you to join.
+Whether you’re a member or not we encourage you to check out our social events and volunteer opportunities.
+ 
+You may volunteer to serve within our church or out in the community.  
+
+Each of these categories has changes to get involved.
 
 - Sunday Morning Ministries
 - Outreach-sponsored Activities
