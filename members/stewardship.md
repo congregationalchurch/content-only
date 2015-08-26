@@ -15,10 +15,10 @@ To plan responsibly for the coming year, we need to have an understanding of wha
 
 The operating budget allocates funds to support our staff salaries, our facilities, our ministries and our programs. This is different from a capital budget, which focuses on obtaining or improving buildings or assets. The operating fund is different from a special offering to support a mission or special project. The operating budget, resulting from the stewardship campaign, supports our church’s basic needs.
 
-[Make a pledge]() towards the 2015 Operating Budget.
+[Make a pledge](http://www.congregationalchurch.org/form13941.htm) towards the 2015 Operating Budget.
 
 ### Online Giving
 
 The Congregational Church of Batavia provides the option of giving online, either on a one-time or re-occurring basis. After clicking on the link below, you will first need to login to the web site so that your gift can be accurately recorded. If you need to establish a login or have forgotten your username or password, there are options on the next screen to address those issues.
 
-[Give online]() 
+[Give online](https://secure.accessacs.com/access/nonmemberlogin.aspx?sn=110319&sc=give) 
