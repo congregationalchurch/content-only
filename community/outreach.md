@@ -46,7 +46,7 @@ recently. In addition to our gift of money, most really value volunteer time. If
 - Court Appointed Special Advocates (CASA) of Kane County
 - Wayside Cross Lifespring/OCWM
 
-* Missing a description
+*Missing a description
 
 ### [Mutual Ground](http://mutualground.org/)
 
@@ -76,7 +76,7 @@ effective family functioning.
 The mission of NIFB is to provide nutritious food to all those in need through our own efforts and those of our 665 partner agencies in the following 13 counties - Boone, DuPage, DeKalb, Grundy, Kane, Kankakee, Kendall, Lake, McHenry, Ogle, Stephenson, Will and Winnebago. NIFB acquires, gathers, handles, and distributes approximately three million pounds of donated, government, and purchased food each month through local food pantries, soup kitchens, shelters,
 youth activity centers and other food assistance sites.
 
-### Batavia Interfaith Clothes Closet
+### [Batavia Interfaith Clothes Closet]
 
 The Clothes Closet is on the north end of the building shared by the Batavia Interfaith Food Pantry. Although the two ministries are physically connected, each has its own hours and rules.
 
